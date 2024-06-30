@@ -1,0 +1,3 @@
+### Get Request
+GET http://localhost:1939/
+Accept: text/plain
